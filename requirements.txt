@@ -1,0 +1,7 @@
+androguard==3.3.5
+networkx
+tqdm
+joblib
+glob
+igraph
+pycairio
