@@ -4,7 +4,7 @@
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Install listed package in requirement.txt</p>
+<p>1. Install listed package in requirements.txt</p>
 
 <p>2. Create folder tree data/apk and add your apk files here. You can change the folder name but dont forget to update the code :) </p>
 
