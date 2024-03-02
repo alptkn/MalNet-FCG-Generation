@@ -6,6 +6,6 @@
 
 <p>1. Install listed package in requirement.txt</p>
 
-<p>2. Create folder tree data/apk. You can change the folder name.</p>
+<p>2. Create folder tree data/apk and add your apk files here. You can change the folder name but dont forget to update the code :) </p>
 
 <p>3. Run the test.py. It will create edge list and image format of the grapg.</p>
